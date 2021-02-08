@@ -1,0 +1,1 @@
+export {MenuComponent as default} from './MenuComponent';

@@ -1,0 +1,18 @@
+.btn-group, .btn-group-vertical {
+    display: contents;
+}
+
+.btn-info {
+    background-color: #1daf65;
+    border-color: #1daf65; 
+}
+
+.btn-info:hover {
+    background-color:  #28e084 !important;
+    border-color: #28e084 !important;
+}
+
+.btn-info:not(:disabled):not(.disabled).active, .btn-info:not(:disabled):not(.disabled):active, .show>.btn-info.dropdown-toggle {
+    background-color: #28e084;
+    border-color: #28e084;
+}

@@ -1,0 +1,44 @@
+.header-main {
+    height: 110px;
+    position: sticky;
+    z-index: 9;
+    width: 100%;
+    background: #f6f6f6;
+    overflow: hidden;
+    transition: all 0.3s;
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,.12);
+}
+
+.logo {
+    margin-left: 35px;
+}
+
+.site-branding {
+    margin: 10px auto 10px 0;
+    width: 30%;
+    max-width: 320px;
+}
+
+.site-title {
+    font-family: 'Khand', sans-serif;
+    font-size: 1.4375rem;
+    font-weight: 700;
+    line-height: 1.2173913043;
+    margin: 0;
+}
+
+.site-description {
+    color: #003f5e;
+    display: block;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 0;
+    margin: 0;
+    text-transform: uppercase;
+    width: 100%;
+    position: absolute;
+    top: 53px;
+    left: 0;
+    text-align: center;
+    transition: all 0.3s;
+}
