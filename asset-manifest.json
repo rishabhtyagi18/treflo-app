@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/treflo-app/static/css/main.a9e280f7.chunk.css",
+    "main.js": "/treflo-app/static/js/main.8525d568.chunk.js",
+    "main.js.map": "/treflo-app/static/js/main.8525d568.chunk.js.map",
+    "runtime-main.js": "/treflo-app/static/js/runtime-main.cf471506.js",
+    "runtime-main.js.map": "/treflo-app/static/js/runtime-main.cf471506.js.map",
+    "static/js/2.7afcf396.chunk.js": "/treflo-app/static/js/2.7afcf396.chunk.js",
+    "static/js/2.7afcf396.chunk.js.map": "/treflo-app/static/js/2.7afcf396.chunk.js.map",
+    "static/js/3.08bb7809.chunk.js": "/treflo-app/static/js/3.08bb7809.chunk.js",
+    "static/js/3.08bb7809.chunk.js.map": "/treflo-app/static/js/3.08bb7809.chunk.js.map",
+    "index.html": "/treflo-app/index.html",
+    "static/css/main.a9e280f7.chunk.css.map": "/treflo-app/static/css/main.a9e280f7.chunk.css.map",
+    "static/js/2.7afcf396.chunk.js.LICENSE.txt": "/treflo-app/static/js/2.7afcf396.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf471506.js",
+    "static/js/2.7afcf396.chunk.js",
+    "static/css/main.a9e280f7.chunk.css",
+    "static/js/main.8525d568.chunk.js"
+  ]
+}
